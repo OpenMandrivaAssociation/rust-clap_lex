@@ -7,7 +7,7 @@
 %global crate clap_lex
 
 Name:           rust-clap_lex
-Version:        0.7.0
+Version:        1.1.0
 Release:        1
 Summary:        Minimal, flexible command line parser
 Group:          Development/Rust
